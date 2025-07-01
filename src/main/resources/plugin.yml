@@ -1,0 +1,7 @@
+name: WatcherHorrorEndermanChat
+main: dev.watcherhorror.WatcherPlugin
+version: 1.0
+api-version: 1.21
+commands:
+  spawnwatcher:
+    description: Spawnt den Watcher-Enderman mit Chat
