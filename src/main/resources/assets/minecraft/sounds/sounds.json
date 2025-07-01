@@ -1,0 +1,7 @@
+{
+  "watcher": {
+    "whisper": { "sounds": ["watcher/whisper"] },
+    "scream": { "sounds": ["watcher/scream"] },
+    "heartbeat": { "sounds": ["watcher/heartbeat"] }
+  }
+}
